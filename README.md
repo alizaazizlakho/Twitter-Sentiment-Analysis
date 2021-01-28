@@ -9,9 +9,4 @@ Only the train.csv file was used in this project.
 
 The dataset had positive tweets flagged by 1 and negative tweets flagged by 0 in the label column as shown below:
 
-<img
-src=“https://github.com/alizaazizlakho/Twitter-Sentiment-Analysis/blob/main/pictures/dataset.png”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+![alt text](https://github.com/alizaazizlakho/Twitter-Sentiment-Analysis/blob/main/pictures/dataset.png)
