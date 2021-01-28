@@ -15,6 +15,8 @@ Next, to get an idea of the total number of positive and negative tweets, I used
 
 ![alt text](https://github.com/alizaazizlakho/Twitter-Sentiment-Analysis/blob/main/pictures/distribution%20plot.png)
 
+## The Wordcloud
+
 Next, all the tweets were converted from a dataframe to a list so that wordclouds could be plotted. Below you will find three wordclouds:
 
 1) Most commonly words used in the tweets in this dataset
@@ -30,6 +32,8 @@ Next, all the tweets were converted from a dataframe to a list so that wordcloud
 ![alt text](https://github.com/alizaazizlakho/Twitter-Sentiment-Analysis/blob/main/pictures/Wordcloud2.png)
 
 After cleaning the tweet (by removing punctuation and stopwords) I performed count verctorization and then I trained my model on Naive Bayes Classifier where I only used 10% of the data (due to limitations on the Memory that I could use).
+
+## The Classification Report
 
 Following is the heatmap of the Confusion Matrix:
 
